@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #77747b;
+    color: #fff;
+    margin:0px;
+  }
+  
+  h1{
+    color:#480520;
+    font-size:60px;
+    font-weight:300;
+  }
+  
+  h2{
+    color:#9e0a2f;
+    font-size:40px;
+  }
+  
+  .titulo1{
+    color:#608de6;
+  }
+  
+  .titulo2{
+    color:#172dd3;
+  }
+  
+  .titulo3{
+    color:#0b1384;
+  }
+  
+  section{
+    width:60%;
+    margin: 0 auto;
+  }
+  
+  section section{
+    width: 100%;
+  }
+  
+  h3{
+    font-size:22px;
+    font-style:italic;
+  }
+  
+  p{
+    font-size:20px;
+    line-height:1,5;
+  }
+  
+  img{
+    width:100%;
+  }
+  
+  ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left:0;
+  }
+  
+  a{
+    text-decoration:none;
+    color:#910d2e;
+    font-weight: 700;
+  }
+  
+  .principal{
+    background-color: #f5dbdb;
+    height:40px;
+    max-width:60%;
+    margin:0 auto;
+  }
+  
+  .principal a{
+    color: #6f4444;
+    text-decoration: underline;
+    font-weight:normal;
+  }
+  
+  .principal li{
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+  }
+  
+  button{
+    background: #cecaca;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+  }
